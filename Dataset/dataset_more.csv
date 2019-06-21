@@ -1,0 +1,645 @@
+disease,symptom
+Achalasia,"['Burning pain in chest or upper abdomen', 'Difficult or painful swallowing', 'Food sticks on swallowing']"
+Acid reflux,"['Abdominal pain after eating', 'Burning pain in chest or upper abdomen', 'Chest tightness', 'Upper abdominal pain']"
+Acoustic neuroma,"['Hearing loss in one ear', 'Noises in ear', 'Sensation of room spinning']"
+Acute cholecystitis,"['Abdominal pain spreading to shoulder blade', 'Abdominal pain worse on coughing', 'Right sided abdominal pain', 'Upper abdominal pain']"
+Acute exacerbation of COPD,"['Cough which produces mucus', 'Fast or shallow breathing', 'Shortness of breath', 'Wheeze (noise on breathing out)']"
+Acute heart failure,"['Cough which produces mucus', 'Fast or shallow breathing', 'Swollen feet or ankles']"
+Acute myeloid leukaemia,['Excessive sweating at night']
+Alcohol poisoning,"['Confusion which is new', 'Difficulty speaking', 'Feel unbalanced', 'Slurred speech', 'Vomiting']"
+Alcoholic liver disease,"['Diarrhoea', 'Feeling sick or nausea', 'Loss of appetite']"
+Allergic rhinitis,"['Blocked nose', 'Excessive sneezing', 'Itchy eyes', 'Runny nose', 'Watery eyes']"
+Alzheimer's disease,"['Confused or muddled', 'Memory loss']"
+Anal Cancer,"['Anal lump', 'Blood in stool or poo', 'Pain when passing stools']"
+Anal fistula,"['Blood in stool or poo', 'Itchy anus', 'Pain when passing stools']"
+Anal ulcer or blister,"['Blood in stool or poo', 'Pain when passing stools']"
+Aneurysm,"['Confused or muddled', 'Confusion which is new', 'Headache that came on suddenly', 'Neck stiffness', 'Numbness or  tingling on one side of body', 'Severe headache', 'Weakness of one side of the body']"
+Angina pectoris,['Chest pain on physical effort']
+Angioedema,"['Swelling of the face', 'Swollen feet or ankles', 'Swollen lip']"
+Ankylosing spondylitis,"['Back stiffness', 'Buttock pain', 'Lower back pain', 'Pain at base of spine', 'Pain in more than one joint']"
+Anorexia,"['Hair loss or thinning', 'Intentional weight loss', 'Irregular or infrequent periods', 'Lightheaded or feeling dizzy', 'Missing periods', 'Obsessed with weight or appearance']"
+Anxiety,"['Anxiety', 'Feeling heart beat', 'Feeling irritable', 'Feeling sick or nausea', 'Unusually tired']"
+Anxiety disorder of childhood,['Feeling irritable']
+Appendicitis,"['Abdominal pain worse on coughing', 'Lower abdominal pain', 'Right sided abdominal pain']"
+Asthma,"['Chest tightness', 'Cough', 'Shortness of breath', 'Wheeze (noise on breathing out)']"
+Asthma Attack,"['Chest tightness', 'Fast or shallow breathing', 'Unable to talk in full sentences', 'Wheeze (noise on breathing out)']"
+Athlete's Foot,"['Itchy rash', 'Rash on foot']"
+Back pain,"['Back pain', 'Back stiffness', 'Lower back pain']"
+Bacterial arthritis,"['Affected joint feels warm', 'Pain in one joint', 'Single joint stiffness', 'Single swollen joint']"
+Bacterial vaginosis,['Unusual vaginal discharge']
+Bakers cyst,['Swollen knee']
+Bell's palsy,['Drooping of the face']
+Bile duct Cancer,"['Right sided abdominal pain', 'Upper abdominal pain', 'Yellow skin or eyes']"
+Bladder Cancer,"['Continuous, unexplained weight loss', 'Difficulty passing urine', 'Pain when passing urine', 'Painless blood in urine', 'Passing more urine than usual', 'Urgent desire to pass urine']"
+Bowel Cancer,"['Abdominal pain', 'Blood in stool or poo', 'Change in bowel habit', 'Diarrhoea']"
+Brain Cancer,"['Headache getting worse over time', 'Headache on waking up', 'Severe headache', 'Vomiting']"
+Breast Cancer,"['Continuous, unexplained weight loss', 'Lump in breast']"
+Breast abscess,"['Breast pain', 'Lump in breast', 'Redness of the breast']"
+Bronchiectasis,"['Cough which produces mucus', 'Shortness of breath']"
+Bronchiolitis,"['Blocked nose', 'Dry cough', 'Fast or shallow breathing', 'Feeding less than usual', 'Runny nose', 'Wheeze (noise on breathing out)']"
+Bronchitis,"['Cough which produces mucus', 'Wheeze (noise on breathing out)']"
+Bulimia,"['Intentional weight loss', 'Irregular or infrequent periods', 'Obsessed with weight or appearance']"
+Bunion,"['Foot pain', 'Pain in one joint', 'Pain in toe', 'Pain under front of foot', 'Single joint stiffness', 'Single swollen joint', 'Swollen toe']"
+Bursitis,"['Pain in elbow', 'Pain in one joint', 'Pain in shoulder', 'Single joint stiffness', 'Single swollen joint']"
+Carcinoma in situ of eye,"['Blurred vision', 'Eye pain', 'Spots moving across field of vision']"
+Carcinoma of cervix,"['Bleeding between periods', 'Unusual vaginal discharge', 'Vaginal bleeding after menopause', 'Vaginal bleeding after sex']"
+Carpal Tunnel Syndrome,"['Numbness or  tingling on one side of body', 'Weakness of one side of the body']"
+Cataract,"['Blurred vision', 'Reduced vision', 'Seeing double']"
+Cellulitis,"['Painful skin', 'Red skin']"
+Cervical spondylosis,"['Neck pain', 'Neck stiffness', 'Pain in shoulder']"
+Chest infection,"['Cough', 'Cough which produces mucus', 'High temperature', 'Shivering or rigors', 'Shortness of breath']"
+Chickenpox,"['Blistering rash', 'Blisters on chest, abdomen or back', 'Itchy rash', 'Loss of appetite']"
+Chilblains,"['Feeling of your skin burning', 'Itchy rash', 'Pain in finger', 'Pain in toe', 'Swollen finger']"
+Chlamydia,"['Bleeding between periods', 'Difficulty passing urine', 'Difficulty passing urine', 'Lower abdominal pain', 'Pain during sex', 'Pain in testicle', 'Pain when passing urine', 'Pain when passing urine', 'Penis discharge', 'Swollen scrotum or testicle', 'Unusual vaginal discharge', 'Vaginal bleeding after sex']"
+Chronic fatigue syndrome,"['Aching muscles all over body', 'Pain in more than one joint']"
+Chronic obstructive lung disease,"['Cough which produces mucus', 'Shortness of breath', 'Wheeze (noise on breathing out)']"
+Claustrophobia,"['Anxiety', 'Feeling heart beat', 'Feeling sick or nausea', 'Sweating', 'Tremor']"
+Cluster headache,"['Headache that came on suddenly', 'Pain on left or right side of head', 'Severe headache']"
+Cold,"['Blocked nose', 'Excessive sneezing', 'Runny nose', 'Sore throat']"
+Complex regional pain syndrome,"['Leg pain', 'Swelling of more than one joint']"
+Congenital cataract,"['Blurred vision', 'Reduced vision', 'Seeing double']"
+Congestive heart failure,"['Cough which produces mucus', 'Shortness of breath', 'Swollen feet or ankles']"
+Constipation,"['Abdominal pain', 'Constipation', 'Stomach cramps', 'Unable to completely empty bowels']"
+Costochondritis,"['Chest pain, worse on breathing in']"
+Crohn's disease,"['Abdominal pain', 'Bloody diarrhoea', 'Change in bowel habit', 'Continuous, unexplained weight loss', 'Diarrhoea', 'Mucus in stool or  poo', 'Stomach cramps']"
+Croup,"['Blocked nose', 'Change of voice', 'Cough', 'Fast or shallow breathing', 'High temperature', 'Noisy breathing, on breathing in', 'Runny nose', 'Shortness of breath']"
+Cyclical breast pain,['Breast pain']
+Cystic fibrosis,['Cough which produces mucus']
+Cystitis,"['Cloudy urine', 'Difficulty passing urine', 'Lower abdominal pain', 'Pain when passing urine', 'Passing more urine than usual', 'Urgent desire to pass urine']"
+DVT,"['Leg pain', 'Leg swelling']"
+Dengue,"['Headache', 'Shivering or rigors']"
+Depression,"['Feeling irritable', 'Increased appetite', 'Loss of appetite', 'Unusually tired']"
+Diphtheria,"['Change of voice', 'Difficult or painful swallowing', 'Difficulty speaking', 'Shivering or rigors', 'Sore throat', 'White spots on tonsils']"
+Diverticulitis,"['Abdominal pain worse on coughing', 'Bloated stomach', 'Blood in stool or poo', 'Change in bowel habit', 'Lower abdominal pain', 'Passing excessive wind']"
+Dry eyes,"['Dry eyes', 'Eye pain', 'Itchy eyes', 'Red eyes']"
+Dupuytren's contracture,['Fingers bending towards palm']
+Ectopic pregnancy,"['Bleeding between periods', 'Lower abdominal pain', 'Missing periods']"
+Eczema,"['Dry skin', 'Itchy rash']"
+Encephalitis,"['Confused or muddled', 'Confusion which is new', 'Fits or  seizure', 'Headache']"
+Endometrial Cancer,"['Bleeding between periods', 'Heavy periods', 'Vaginal bleeding after menopause']"
+Endometriosis,"['Bleeding between periods', 'Heavy periods', 'Pain in the pelvic region', 'Painful periods or  menstruation']"
+Epiglottitis,"['Change of voice', 'Feeding less than usual', 'Noisy breathing, on breathing in']"
+Epilepsy,"['Confusion which is new', 'Fits or  seizure', 'Loss of consciousness', 'Unintentional passing of urine']"
+Essential tremor,['Tremor']
+Exudative age-related macular degeneration,['Blurred vision']
+Fear of open spaces,"['Anxiety', 'Fast or shallow breathing', 'Feeling heart beat', 'Feeling sick or nausea', 'Sweating']"
+Febrile convulsion,['Fits or  seizure']
+Fibroid,"['Heavy periods', 'Lower back pain', 'Painful periods or  menstruation', 'Unusually tired']"
+Fibromyalgia,"['Aching muscles all over body', 'Pain in more than one joint', 'Unusually tired']"
+Fifth Disease,"['Blocked nose', 'High temperature', 'Runny nose', 'Skin rash']"
+Flu,['High temperature']
+Frozen Shoulder,"['Pain in shoulder', 'Shoulder stiffness']"
+Gallstone,"['Abdominal pain after eating', 'Right sided abdominal pain', 'Upper abdominal pain']"
+Gastroenteritis,"['Diarrhoea', 'Feeling sick or nausea', 'Stomach cramps', 'Vomiting']"
+Genital Herpes in Men,"['Difficulty passing urine', 'Pain when passing urine', 'Rash on penis']"
+Genital Herpes in Women,"['Difficulty passing urine', 'Pain in vagina', 'Pain when passing urine', 'Unusual vaginal discharge', 'Vaginal rash']"
+Genital warts in Men,['Growth or sore on penis']
+Genital warts in Women,"['Vaginal lump or sore', 'Vaginal rash']"
+Glandular Fever,"['Aching muscles all over body', 'Sore throat']"
+Glaucoma,"['Blurred vision', 'Eye pain', 'Loss of outer vision', 'Reduced vision']"
+Glue ear,['Hearing loss']
+Gluten Intolerance,"['Abdominal pain', 'Bloated stomach', 'Continuous, unexplained weight loss', 'Diarrhoea', 'Passing excessive wind']"
+Gonorrhoea in Men,"['Difficulty passing urine', 'Pain when passing urine', 'Penis discharge']"
+Gonorrhoea in Women,"['Difficulty passing urine', 'Pain when passing urine', 'Unusual vaginal discharge']"
+Gout,"['Affected joint feels warm', 'Pain in one joint', 'Pain in toe', 'Single joint stiffness', 'Single swollen joint', 'Swollen toe']"
+Granulomatosis with polyangiitis,"['Cough', 'Excessive sweating at night', 'Nose bleeding']"
+Guillain-Barre syndrome,"['Difficulty walking', 'Weakness in the legs']"
+Haemophilia A,"['Easy bruising', 'Nose bleeding']"
+Hammer finger,"['Fingers bending towards palm', 'Pain in finger', 'Swollen finger']"
+Hand foot and mouth disease,"['Loss of appetite', 'Mouth soreness', 'Rash on foot', 'Skin rash', 'Sore throat']"
+Hay fever,"['Blocked nose', 'Excessive sneezing', 'Itchy eyes', 'Runny nose', 'Watery eyes']"
+Heart attack,"['Chest pain', 'Chest tightness', 'Sudden chest pain', 'Sweating']"
+Heat stroke,['Unusually thirsty']
+Heel pain,['Difficulty walking']
+Henoch-Schonlein purpura,"['Abdominal pain', 'Pain in more than one joint', 'Painful knee', 'Swollen feet or ankles']"
+Hepatitis,"['Feeling sick or nausea', 'Loss of appetite', 'Right sided abdominal pain', 'Unusually tired', 'Upper abdominal pain', 'Vomiting', 'Yellow skin or eyes']"
+High altitude pulmonary oedema,"['Headache', 'Lightheaded or feeling dizzy']"
+High pressure headache,"['Blurred vision', 'Headache getting worse over time', 'Headache on waking up', 'Seeing double', 'Severe headache', 'Vomiting']"
+Hives,['Red skin']
+Impetigo,['Blistering rash']
+Infection of the breast,"['Breast pain', 'Lump in breast', 'Redness of the breast']"
+Infective conjunctivitis,"['Discharge from eyes', 'Eye pain', 'Itchy eyes', 'Red eyes']"
+Infestation by Sarcoptes scabiei var hominis,"['Itchy rash', 'Itchy skin']"
+Inflammation of eyelids,"['Discharge from eyes', 'Eye pain', 'Itchy eyes', 'Pain on eyelid', 'Red eyes', 'Swollen eyelid']"
+Inflammation of pancreas,"['Abdominal pain spreading to shoulder blade', 'Abdominal pain worse on coughing', 'Back pain', 'Loss of appetite', 'Upper abdominal pain']"
+Inflammation of the nose,"['Blocked nose', 'Excessive sneezing', 'Runny nose']"
+Inguinal hernia,['Swollen scrotum or testicle']
+Inner Ear Inflammation,"['Hearing loss', 'Lightheaded or feeling dizzy', 'Sensation of room spinning']"
+Iron deficiency anaemia,['Unusually tired']
+Irritable bowel syndrome,"['Abdominal pain', 'Abdominal pain after eating', 'Bloated stomach', 'Change in bowel habit', 'Constipation', 'Diarrhoea', 'Passing excessive wind', 'Stomach cramps']"
+Irritable hip,"['Difficulty walking', 'Hip pain', 'Stiff hip']"
+Kawasaki disease,"['Feeling irritable', 'Mouth soreness', 'Rash on penis', 'Red eyes', 'Skin rash', 'Swollen tongue with red spots', 'Vaginal rash']"
+Kidney Cancer,"['Lower back pain', 'Pain on side of abdomen', 'Painless blood in urine']"
+Lactose intolerance,"['Abdominal pain after eating', 'Bloated stomach', 'Diarrhoea', 'Passing excessive wind']"
+Laryngeal Cancer,"['Change of voice', 'Difficulty speaking', 'Food sticks on swallowing']"
+Laryngitis,"['Change of voice', 'Difficulty speaking', 'High temperature', 'Sore throat']"
+Liver cancer,"['Bloated stomach', 'Loss of appetite', 'Vomiting', 'Yellow skin or eyes']"
+Lung cancer,"['Continuous, unexplained weight loss', 'Cough', 'Shortness of breath']"
+Lymphoedema,"['Leg swelling', 'Swollen feet or ankles']"
+Major head injury,"['Confused or muddled', 'Confusion which is new', 'Feel unbalanced', 'Head injury', 'Headache', 'Lightheaded or feeling dizzy', 'Memory loss', 'Seeing double', 'Slurred speech', 'Vomiting']"
+Malaria,"['Aching muscles all over body', 'Diarrhoea', 'Headache', 'High temperature', 'Shivering or rigors', 'Sweating']"
+Male breast cancer,['Lump in breast']
+Mastoiditis,"['Discharge from ear', 'Ear pain', 'Feeling irritable', 'Hearing loss in one ear']"
+Measles,"['Excessive sneezing', 'Eye pain', 'Feeling irritable', 'Red eyes', 'Runny nose', 'Skin rash', 'Sore throat', 'Watery eyes']"
+Meniere's disease,"['Ears feel blocked', 'Hearing loss in one ear', 'Noises in ear', 'Sensation of room spinning']"
+Meningitis,"['Eyes sensitive to light', 'Headache', 'Neck pain', 'Neck stiffness']"
+Menopause,"['Excessive sweating at night', 'Flushing', 'Irregular or infrequent periods', 'Missing periods', 'Sensitive to heat', 'Unusually tired', 'Vaginal dryness']"
+Migraine,"['Feeling sick or nausea', 'Headache', 'Headache that came on suddenly', 'Pain on left or right side of head', 'Severe headache']"
+Minor head injury,"['Head injury', 'Lightheaded or feeling dizzy']"
+Morning sickness,"['Feeling sick or nausea', 'Vomiting']"
+Morton's Neuroma,"['Foot pain', 'Pain in toe', 'Pain under front of foot']"
+Multiple myeloma,"['Easy bruising', 'Hip pain', 'Lower back pain']"
+Mumps,"['Face pain', 'Swelling of the face']"
+Nasopharyngeal cancer,"['Blocked nose', 'Change of voice', 'Difficult or painful swallowing', 'Difficulty speaking', 'Hearing loss in one ear', 'Nose bleeding']"
+Neoplasm of nose,['Nose bleeding']
+Nephrotic syndrome,"['Gaining weight unintentionally', 'Leg swelling', 'Puffyswollen eyes', 'Swollen feet or ankles']"
+Non-Hodgkin's lymphoma,"['Continuous, unexplained weight loss', 'Excessive sweating at night']"
+Oesophageal Cancer,"['Burning pain in chest or upper abdomen', 'Difficult or painful swallowing', 'Food sticks on swallowing', 'Loss of appetite', 'Vomiting']"
+Oral Thrush,"['Mouth soreness', 'White patches in mouth or tongue']"
+Oral thrush,"['Mouth soreness', 'White patches in mouth or tongue']"
+Osteoarthritis,"['Hip pain', 'Pain in one joint', 'Painful knee', 'Single joint stiffness', 'Single swollen joint', 'Swollen knee']"
+Otitis externa,"['Discharge from ear', 'Ears feel blocked']"
+Otitis media,"['Ear pain', 'Hearing loss in one ear', 'High temperature']"
+Otosclerosis,['Noises in ear']
+Ovarian Cancer,"['Bloated stomach', 'Lower abdominal pain', 'Pain in the pelvic region']"
+Ovarian cyst,"['Bloated stomach', 'Lower abdominal pain', 'Pain during sex', 'Pain in the pelvic region']"
+Overactive Thyroid,"['Continuous, unexplained weight loss', 'Diarrhoea', 'Feeling irritable', 'Increased appetite', 'Sensitive to heat', 'Sweating']"
+PTSD,"['Anxiety', 'Feeling irritable']"
+Pain at base of spine,['Pain at base of spine']
+Pancreatic Cancer,['Yellow skin or eyes']
+Panic disorder,"['Anxiety', 'Fast or shallow breathing']"
+Parkinson's disease,"['Feel unbalanced', 'Tremor']"
+Pelvic Inflammatory Disease,"['Bleeding between periods', 'Heavy periods', 'Pain during sex', 'Pain in the pelvic region', 'Painful periods or  menstruation', 'Unusual vaginal discharge', 'Vaginal bleeding after sex']"
+Penile Thrush,['Rash on penis']
+Penile cancer,"['Growth or sore on penis', 'Penis discharge', 'Rash on penis']"
+Peptic ulcer,"['Burning pain in chest or upper abdomen', 'Upper abdominal pain']"
+Pericarditis,"['Chest pain', 'Sudden chest pain']"
+Peripheral Artery Disease,"['Aching muscles all over body', 'Leg pain']"
+Piles,"['Anal lump', 'Blood in stool or poo', 'Itchy anus', 'Pain when passing stools']"
+Polycystic ovaries,"['Gaining weight unintentionally', 'Hair loss or thinning']"
+Polymyalgia rheumatica,"['Aching muscles all over body', 'Hip pain', 'Neck pain', 'Neck stiffness', 'Pain in shoulder', 'Shoulder stiffness', 'Stiff hip', 'Stiffness in many joints']"
+Postherpetic neuralgia,"['Feeling of your skin burning', 'Itchy skin', 'Numbness or  tingling on one side of body']"
+Postural tachycardia syndrome,"['Feeling heart beat', 'Loss of consciousness']"
+Pre-eclampsia,"['Reduced vision', 'Severe headache', 'Swelling of the face', 'Swollen feet or ankles']"
+Premenstrual tension syndrome,"['Bloated stomach', 'Breast pain', 'Feeling irritable']"
+Prickly heat,['Itchy rash']
+Prostate Cancer,"['Difficulty passing urine', 'Passing more urine than usual', 'Passing urine at night frequently', 'Urgent desire to pass urine', 'Weak flow of urine']"
+Prostatic enlargement,"['Passing more urine than usual', 'Passing urine at night frequently', 'Unintentional passing of urine', 'Urgent desire to pass urine', 'Weak flow of urine']"
+Prostatitis,"['Groin pain', 'Lower back pain', 'Pain in testicle', 'Pain when passing urine', 'Passing more urine than usual']"
+Psoriasis,"['Dry skin', 'Flaky skin', 'Itchy rash', 'Skin rash', 'Thickened patch of skin']"
+Psoriatic arthritis,"['Pain in more than one joint', 'Stiffness in many joints', 'Swelling of more than one joint']"
+Pulmonary Embolism,"['Chest pain on physical effort', 'Chest pain, worse on breathing in', 'Fast or shallow breathing', 'Shortness of breath']"
+Pyelonephritis,"['Difficulty passing urine', 'Groin pain', 'Lower back pain', 'Pain on side of abdomen', 'Passing more urine than usual', 'Shivering or rigors', 'Urgent desire to pass urine']"
+Reactive arthritis,"['Pain in more than one joint', 'Pain in one joint', 'Single swollen joint', 'Stiffness in many joints']"
+Recurrent pancreatitis,"['Feeling sick or nausea', 'Upper abdominal pain', 'Vomiting']"
+Repetitive Strain Injury,"['Pain in one joint', 'Single joint stiffness']"
+Retinal detachment,"['Blurred vision', 'Loss of outer vision', 'Reduced vision', 'Spots moving across field of vision']"
+Rheumatoid arthritis,"['Foot pain', 'Pain in finger', 'Pain in more than one joint', 'Stiffness in many joints', 'Swelling of more than one joint', 'Swollen finger']"
+Ringworm,['Itchy rash']
+Rosacea,['Flushing']
+Roseola,"['Blocked nose', 'Cough', 'Runny nose', 'Skin rash', 'Sore throat']"
+Rotator cuff syndrome,['Pain in shoulder']
+Rubella,"['Cough', 'Skin rash']"
+SVT,"['Chest pain', 'Fast or shallow breathing', 'Feeling heart beat', 'Lightheaded or feeling dizzy', 'Loss of consciousness', 'Shortness of breath']"
+Salivary gland stone,"['Face pain', 'Jaw pain when eating', 'Swelling of the face']"
+Scarlet fever,"['Skin rash', 'Sore throat', 'Swollen tongue with red spots']"
+Sensation of room spinning,"['Feel unbalanced', 'Lightheaded or feeling dizzy', 'Sensation of room spinning']"
+Severe allergic reaction,"['Fast or shallow breathing', 'Puffyswollen eyes', 'Swelling of the face', 'Swollen lip', 'Unable to talk in full sentences']"
+Shingles,"['Blistering rash', 'Blisters on chest, abdomen or back', 'Itchy rash', 'Numbness or  tingling on one side of body', 'Painful skin']"
+Shooting pain down back of leg,"['Buttock pain', 'Leg pain', 'Lower back pain']"
+Sinusitis,"['Blocked nose', 'Face pain', 'Headache at front of head', 'High temperature']"
+Sjogren's syndrome,['Dry eyes']
+Sore throat,"['Difficult or painful swallowing', 'Dry cough', 'Sore throat']"
+Stomach Cancer,"['Bloated stomach', 'Burning pain in chest or upper abdomen', 'Continuous, unexplained weight loss', 'Feeling sick or nausea', 'Upper abdominal pain']"
+Stroke,"['Drooping of the face', 'Slurred speech', 'Weakness in the legs', 'Weakness of one side of the body']"
+Stye,"['Pain on eyelid', 'Swollen eyelid']"
+Subarachnoid haemorrhage,"['Blurred vision', 'Eyes sensitive to light', 'Headache that came on suddenly', 'Neck stiffness', 'Severe headache']"
+Subdural hemorrhage,"['Confused or muddled', 'Feel unbalanced', 'Head injury', 'Headache getting worse over time']"
+Systemic sclerosis,"['Bloated stomach', 'Burning pain in chest or upper abdomen', 'Difficult or painful swallowing', 'Food sticks on swallowing', 'Swelling of more than one joint', 'Thickened patch of skin']"
+TB,"['Continuous, unexplained weight loss', 'Cough', 'Excessive sweating at night', 'Loss of appetite']"
+TV in Men,['Penis discharge']
+TV in Women,['Unusual vaginal discharge']
+Teeth grinding,"['Face pain', 'Jaw pain when eating', 'Teeth grinding']"
+Temporal arteritis,"['Headache', 'Jaw pain when eating', 'Severe headache']"
+Temporomandibular joint disorder,"['Jaw pain when eating', 'Locked jaw', 'Teeth grinding']"
+Tennis Elbow,['Pain in elbow']
+Tension headache,"['Headache', 'Headache at front of head']"
+Testicular cancer,['Swollen scrotum or testicle']
+Tetanus,['Locked jaw']
+Tonsillitis,"['Change of voice', 'Cough', 'Difficult or painful swallowing', 'Difficulty speaking', 'High temperature', 'Sore throat', 'White spots on tonsils']"
+Type 1 diabetes,"['Passing more urine than usual', 'Unusually thirsty']"
+Type 2 diabetes,"['Continuous, unexplained weight loss', 'Passing more urine than usual', 'Unusually thirsty', 'Unusually tired']"
+Typhoid fever,"['Abdominal pain', 'Constipation', 'Headache', 'Loss of appetite']"
+Ulcerative colitis,"['Abdominal pain', 'Bloody diarrhoea', 'Change in bowel habit', 'Diarrhoea', 'Mucus in stool or  poo', 'Unable to completely empty bowels']"
+Under-active Thyroid,"['Constipation', 'Gaining weight unintentionally', 'Unusually tired']"
+Urinary tract infection in children,"['Cloudy urine', 'Feeding less than usual', 'Feeling irritable', 'High temperature', 'Passing more urine than usual', 'Unusually tired']"
+Uterine prolapse,"['Passing more urine than usual', 'Unintentional passing of urine', 'Vaginal lump or sore', 'Weak flow of urine']"
+Uveitis,"['Blurred vision', 'Eye pain', 'Eyes sensitive to light', 'Loss of outer vision', 'Red eyes', 'Reduced vision', 'Spots moving across field of vision']"
+Vaginal Cancer,['Bleeding between periods']
+Vaginal pain,"['Pain in vagina', 'Vaginal dryness']"
+Vaginal thrush,"['Itchy vagina', 'Pain when passing urine', 'Unusual vaginal discharge']"
+Vaginismus,"['Pain during sex', 'Pain in vagina']"
+Vaginitis,"['Itchy vagina', 'Pain in vagina', 'Unusual vaginal discharge']"
+Varicose veins,"['Leg pain', 'Leg swelling', 'Swollen feet or ankles', 'Swollen purple veins on legs']"
+Varicose veins of the leg with eczema,"['Dry skin', 'Flaky skin', 'Itchy rash', 'Leg swelling', 'Swollen feet or ankles', 'Swollen purple veins on legs']"
+Venous Ulcer,"['Leg pain', 'Leg swelling', 'Swollen feet or ankles']"
+Vulval Cancer,"['Itchy vagina', 'Pain in vagina', 'Unusual vaginal discharge', 'Vaginal rash']"
+Whooping cough,"['Dry cough', 'Runny nose']"
+abdomen acute,['ileus']
+abdominal bloating,['candidiasis oralcandidiasis']
+abdominal tenderness,"['dementia', 'diverticulitis', 'bacteremia', 'hepatitis B', 'candidiasis oralcandidiasis', 'ketoacidosis diabetic', 'ileus']"
+abnormal sensation,['hemiparesis']
+abnormally hard consistency,"['fibroid tumor', 'cholecystitis']"
+abortion,['fibroid tumor']
+abscess bacterial,"['infection', 'cellulitis', 'diverticulitis', 'osteomyelitis', 'diverticulosis', 'endocarditis', 'ileus']"
+absences finding,"['encephalopathy', 'tonic-clonic epilepsy tonic-clonic seizures']"
+achalasia,"['deglutition disorder', 'parkinson disease', 'hemorrhoids']"
+ache,"['hepatitis C', 'malignant neoplasm of lung carcinoma of lung']"
+adverse reaction adverse effect,['candidiasis oralcandidiasis']
+agitation,"['depression mental , depressive disorder', 'dementia', 'confusion', 'hypothyroidism', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'schizophrenia', 'suicide attempt', 'parkinson disease', ""Alzheimer's disease"", 'glaucoma', 'malignant neoplasm of lung carcinoma of lung', 'personality disorder', 'pneumothorax', 'dependence', 'delusion', 'delusion']"
+air fluid level,['ileus']
+alcohol binge episode,['tachycardia sinus']
+alcoholic withdrawal symptoms,['suicide attempt']
+ambidexterity,"['tonic-clonic epilepsy tonic-clonic seizures', 'migraine disorders']"
+angina pectoris,"['hypertensive disease', 'coronary arteriosclerosis ,coronary heart disease', 'myocardial infarction', 'peripheral vascular disease', 'hyperlipidemia', 'ischemia', 'stenosis aortic valve', 'failure heart', 'obesity morbid']"
+anorexia,"['dehydration', 'peripheral vascular disease', 'ischemia', 'benign prostatic hypertrophy', 'diverticulitis', 'hepatitis', 'diverticulosis', 'thrombus']"
+anosmia,['neoplasm']
+aphagia,"['hemiparesis', 'spasm bronchial']"
+apyrexial,"['infection', 'insufficiency renal', 'septicemia systemic infection sepsis (invertebrate)', 'embolism pulmonary', 'chronic kidney failure', 'exanthema', 'osteoporosis', 'pancreatitis', 'hernia', 'diverticulitis', 'ulcer peptic', 'osteomyelitis', 'sickle cell anemia', 'upper respiratory infection', 'spasm bronchial', 'endocarditis', 'neutropenia', 'cholelithiasis biliary calculus', 'ileus']"
+arthralgia,"['anemia', 'exanthema', 'emphysema pulmonary']"
+ascites,"['insufficiency renal', 'malignant neoplasms primary malignant neoplasm', 'hepatitis C', 'cirrhosis', 'hepatitis', 'gout', 'hyperglycemia', 'personality disorder', 'cholecystitis', 'cholelithiasis biliary calculus']"
+asterixis,"['confusion', 'hepatitis C', 'encephalopathy', 'hernia hiatal']"
+asthenia,"['hypertensive disease', 'diabetes', 'accident cerebrovascular', 'infection urinary tract', 'anemia', 'insufficiency renal', 'confusion', 'degenerative polyarthritis', 'hypothyroidism', 'gastroesophageal reflux disease', 'dehydration', 'chronic kidney failure', 'kidney failure acute', 'arthritis', 'hemiparesis', 'transient ischemic attack', 'incontinence', 'hernia', 'malignant neoplasm of prostate carcinoma prostate', 'deglutition disorder', 'neuropathy', 'malignant neoplasm of lung carcinoma of lung']"
+asymptomatic,"['ischemia', 'mitral valve insufficiency']"
+ataxia,"['malignant neoplasm of prostate carcinoma prostate', 'deglutition disorder', 'lymphoma']"
+atypia,"['arthritis', 'neoplasm metastasis']"
+aura,"['epilepsy', 'incontinence', 'encephalopathy', 'ketoacidosis diabetic']"
+awakening early,"['colitis', 'neuropathy']"
+barking cough,['upper respiratory infection']
+bedridden bedridden,"['dementia', 'failure kidney', ""Alzheimer's disease"", 'affect labile']"
+behavior hyperactive,"['psychotic disorder', 'bipolar disorder']"
+behavior showing increased motor activity,['emphysema pulmonary']
+blackout,"['depression mental , depressive disorder', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'benign prostatic hypertrophy', 'paranoia', 'suicide attempt', 'effusion pericardial pericardial effusion body substance', 'influenza', 'delusion']"
+blanch,['manic disorder']
+bleeding of vagina,"['cirrhosis', 'kidney disease']"
+bowel sounds decreased,['hemorrhoids']
+bradycardia,"['myocardial infarction', 'hypercholesterolemia', 'septicemia systemic infection sepsis (invertebrate)', 'ischemia', 'stenosis aortic valve', 'tricuspid valve insufficiency', 'malignant tumor of colon carcinoma colon', 'hyperbilirubinemia']"
+bradykinesia,['osteoporosis']
+breakthrough pain,['sickle cell anemia']
+breath sounds decreased,"['pneumonia', 'insufficiency renal', 'malignant neoplasm of prostate carcinoma prostate', 'hypertension pulmonary', 'endocarditis', 'chronic alcoholic intoxication']"
+breath-holding spell,['gastroenteritis']
+breech presentation,"['septicemia systemic infection sepsis (invertebrate)', 'hyperbilirubinemia', 'adhesion']"
+bruit,['respiratory failure']
+burning sensation,"['gastroesophageal reflux disease', 'malignant neoplasm of breast carcinoma breast', 'glaucoma', 'hemorrhoids']"
+cachexia,"['benign prostatic hypertrophy', 'Pneumocystis carinii pneumonia', 'primary carcinoma of the liver cells', 'emphysema pulmonary']"
+cardiomegaly,"['deep vein thrombosis', 'mitral valve insufficiency', 'effusion pericardial pericardial effusion body substance']"
+cardiovascular finding cardiovascular event,"['pneumothorax', 'cholecystitis', 'tachycardia sinus']"
+catatonia,"['chronic kidney failure', 'psychotic disorder', 'bipolar disorder', 'obesity', 'delusion']"
+catching breath,['ileus']
+charleyhorse,['spasm bronchial']
+chest discomfort,"['myocardial infarction', 'hypercholesterolemia', 'hyperlipidemia', 'ischemia', 'mitral valve insufficiency', 'edema pulmonary', 'stenosis aortic valve']"
+chest tightness,"['coronary arteriosclerosis ,coronary heart disease', 'asthma', 'myocardial infarction', 'chronic obstructive airway disease', 'gastroesophageal reflux disease', 'chronic kidney failure', 'bronchitis', 'spasm bronchial']"
+chill,"['pneumonia', 'infection', 'anemia', 'acquired immuno-deficiency syndrome HIV hiv infections', 'cellulitis', 'septicemia systemic infection sepsis (invertebrate)', 'chronic kidney failure', 'hepatitis C', 'exanthema', 'bronchitis', 'lymphatic diseases', 'bacteremia', 'hepatitis', 'colitis', 'Pneumocystis carinii pneumonia', 'candidiasis oralcandidiasis', 'malignant neoplasms', 'pyelonephritis', 'pyelonephritis', 'neutropenia', 'influenza']"
+choke,['emphysema pulmonary']
+cicatrisation,"['embolism pulmonary', 'tricuspid valve insufficiency']"
+cicatrisation scar tissue,"['adenocarcinoma', 'paranoia']"
+clammy skin,"['hypoglycemia', 'emphysema pulmonary']"
+clonus,"['deep vein thrombosis', 'hemiparesis', 'pneumonia aspiration', 'hemorrhoids', 'spasm bronchial']"
+clumsiness,['transient ischemic attack']
+colic abdominal,"['diverticulitis', 'cholecystitis', 'pancytopenia']"
+consciousness clear,"['infection urinary tract', 'confusion', 'anxiety state', 'psychotic disorder', 'encephalopathy', ""Alzheimer's disease"", 'respiratory failure']"
+constipation,"['gastroesophageal reflux disease', 'carcinoma', 'adenocarcinoma', 'diverticulitis', 'diverticulosis', 'malignant tumor of colon carcinoma colon', 'emphysema pulmonary', 'cholecystitis', 'ileus']"
+coordination abnormal,['emphysema pulmonary']
+cough,"['pneumonia', 'failure heart congestive', 'asthma', 'infection', 'chronic obstructive airway disease', 'dementia', 'acquired immuno-deficiency syndrome HIV hiv infections', 'hepatitis C', 'bronchitis', 'paroxysmal dyspnea', 'upper respiratory infection', 'pneumonia aspiration', 'suicide attempt', ""Alzheimer's disease"", 'malignant neoplasm of lung carcinoma of lung', 'primary carcinoma of the liver cells', 'hemorrhoids', 'obesity morbid', 'endocarditis', 'pneumothorax', 'neutropenia', 'hyperbilirubinemia']"
+cushingoid facies cushingoid habitus,"['malignant neoplasms primary malignant neoplasm', 'hyperglycemia', 'hyperbilirubinemia', 'pancytopenia', 'cholelithiasis biliary calculus']"
+cyanosis,"['septicemia systemic infection sepsis (invertebrate)', 'hypertension pulmonary', 'hyperbilirubinemia']"
+cystic lesion,"['upper respiratory infection', 'diverticulosis']"
+debilitation,"['encephalopathy', 'malignant neoplasm of lung carcinoma of lung', 'influenza']"
+decompensation,"['paranoia', 'manic disorder', 'delusion']"
+decreased body weight,"['malignant neoplasms primary malignant neoplasm', 'acquired immuno-deficiency syndrome HIV hiv infections', 'neoplasm', 'carcinoma', 'bronchitis', 'adenocarcinoma', 'malignant neoplasm of prostate carcinoma prostate', 'lymphatic diseases', 'gastritis', 'deglutition disorder', 'Pneumocystis carinii pneumonia', 'lymphoma', 'hyperglycemia', 'candidiasis oralcandidiasis', 'tonic-clonic epilepsy tonic-clonic seizures', 'gastroenteritis', 'gastroenteritis', 'primary carcinoma of the liver cells', 'endocarditis', 'adhesion']"
+decreased stool caliber,"['adenocarcinoma', 'hemorrhoids']"
+decreased translucency,"['pneumonia', 'infection', 'bacteremia', 'upper respiratory infection', 'pneumonia aspiration', 'malignant neoplasms', 'malignant neoplasm of lung carcinoma of lung']"
+diarrhea,"['infection', 'insufficiency renal', 'acquired immuno-deficiency syndrome HIV hiv infections', 'dehydration', 'chronic kidney failure', 'carcinoma', 'kidney failure acute', 'pancreatitis', 'malignant neoplasm of prostate carcinoma prostate', 'diverticulitis', 'bacteremia', 'pneumonia aspiration', 'diverticulosis', 'Pneumocystis carinii pneumonia', 'candidiasis oralcandidiasis', 'malignant tumor of colon carcinoma colon', 'ketoacidosis diabetic', 'melanoma', 'hemorrhoids', 'pyelonephritis', 'delirium', 'cholecystitis', 'cholelithiasis biliary calculus', 'ileus']"
+difficulty,"['depression mental , depressive disorder', 'insufficiency renal', 'hypothyroidism', 'anxiety state', 'bipolar disorder', 'transient ischemic attack', 'malignant neoplasm of breast carcinoma breast', 'suicide attempt', 'parkinson disease', 'manic disorder']"
+difficulty passing urine,"['infection urinary tract', 'osteomyelitis', 'lymphoma']"
+disequilibrium,['gastritis']
+distended abdomen,"['hepatitis C', 'cirrhosis', 'arthritis', 'osteoporosis', 'overload fluid', 'bacteremia', 'glaucoma']"
+distress respiratory,"['pneumonia', 'asthma', 'infection urinary tract', 'chronic obstructive airway disease', 'septicemia systemic infection sepsis (invertebrate)', 'embolism pulmonary', 'benign prostatic hypertrophy', 'hepatitis', 'hypoglycemia', 'malignant neoplasms', 'neutropenia', 'influenza']"
+disturbed family,"['bipolar disorder', 'delusion']"
+dizziness,"['hypertensive disease', 'anemia', 'confusion', 'dehydration', 'hyperlipidemia', 'gastritis', 'hemorrhoids', 'migraine disorders']"
+dizzy spells,['malignant tumor of colon carcinoma colon']
+drool,"[""Alzheimer's disease""]"
+drowsiness,"['degenerative polyarthritis', 'epilepsy', 'suicide attempt', 'tonic-clonic epilepsy tonic-clonic seizures']"
+drowsiness sleepy,"['hypothyroidism', 'ischemia', 'hemiparesis', 'overload fluid', 'parkinson disease', 'encephalopathy', 'delirium']"
+dullness,"['diverticulitis', 'malignant neoplasms']"
+dysarthria,"['accident cerebrovascular', 'confusion', 'benign prostatic hypertrophy', 'hemiparesis', 'transient ischemic attack', 'deglutition disorder']"
+dysdiadochokinesia,['deglutition disorder']
+dysesthesia,['malignant neoplasm of prostate carcinoma prostate']
+dyspareunia,['Pneumocystis carinii pneumonia']
+dyspnea,"['failure heart congestive', 'myocardial infarction', 'hypercholesterolemia', 'chronic obstructive airway disease', 'insufficiency renal', 'embolism pulmonary', 'cardiomyopathy', 'peripheral vascular disease', 'ischemia', 'mitral valve insufficiency', 'bronchitis', 'paroxysmal dyspnea', 'edema pulmonary', 'malignant neoplasm of breast carcinoma breast', 'failure heart', 'upper respiratory infection', 'respiratory failure', 'emphysema pulmonary', 'spasm bronchial', 'obesity morbid', 'effusion pericardial pericardial effusion body substance', 'pneumothorax']"
+dyspnea on exertion,"['coronary arteriosclerosis ,coronary heart disease', 'cardiomyopathy', 'mitral valve insufficiency', 'paroxysmal dyspnea', 'stenosis aortic valve', 'failure heart', 'hypertension pulmonary', 'Pneumocystis carinii pneumonia', 'emphysema pulmonary', 'hernia hiatal']"
+dysuria,"['infection urinary tract', 'malignant neoplasm of prostate carcinoma prostate', 'diverticulitis', 'influenza']"
+ecchymosis,"['anemia', 'dementia', 'deep vein thrombosis', 'obesity', 'thrombocytopaenia']"
+egophony,"['adenocarcinoma', 'lymphatic diseases', 'upper respiratory infection', 'spasm bronchial']"
+elation,['manic disorder']
+emphysematous change,"['malignant neoplasms primary malignant neoplasm', 'upper respiratory infection', 'gout']"
+energy increased,"['depression mental , depressive disorder', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'manic disorder']"
+enuresis,"['confusion', 'failure kidney', 'personality disorder', 'affect labile']"
+erythema,"['infection', 'cellulitis', 'deep vein thrombosis', 'exanthema', 'malignant neoplasm of breast carcinoma breast', 'osteomyelitis', 'gout']"
+estrogen use,"['malignant neoplasm of breast carcinoma breast', 'hyperglycemia']"
+excruciating pain,['hernia']
+exhaustion,['bipolar disorder']
+extrapyramidal sign,"['bipolar disorder', 'transient ischemic attack']"
+extreme exhaustion,"['failure kidney', 'pneumonia aspiration', 'personality disorder', 'influenza', 'affect labile']"
+facial paresis,"['accident cerebrovascular', 'dementia', 'hemiparesis', 'transient ischemic attack', 'parkinson disease', ""Alzheimer's disease"", 'spasm bronchial', 'effusion pericardial pericardial effusion body substance', 'thrombus']"
+fall,"['hypertensive disease', 'dementia', 'confusion', 'hypothyroidism', 'cirrhosis', 'osteoporosis', 'incontinence', 'parkinson disease', 'glaucoma']"
+fatigability,"['neuropathy', 'hernia hiatal', 'pancytopenia']"
+fatigue,"['anemia', 'cardiomyopathy', 'mitral valve insufficiency', 'lymphatic diseases', 'failure kidney', 'failure heart', 'thrombocytopaenia', 'suicide attempt', 'pancytopenia']"
+fatigue tired,"['hypothyroidism', 'obesity', 'lymphoma']"
+fear of falling,['incontinence']
+fecaluria,['diverticulosis']
+feces in rectum,['cholecystitis']
+feeling hopeless,"['depression mental , depressive disorder', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'diverticulosis', 'manic disorder', 'personality disorder', 'chronic alcoholic intoxication', 'dependence', 'delusion', 'affect labile']"
+feeling strange,"['hyperglycemia', 'ketoacidosis diabetic']"
+feeling suicidal,"['depression mental , depressive disorder', 'anxiety state', 'acquired immuno-deficiency syndrome HIV hiv infections', 'hepatitis C', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'diverticulosis', 'manic disorder', 'manic disorder', 'chronic alcoholic intoxication', 'delirium', 'adhesion']"
+feels hot/feverish,['obesity morbid']
+fever,"['pneumonia', 'infection', 'infection urinary tract', 'dementia', 'acquired immuno-deficiency syndrome HIV hiv infections', 'cellulitis', 'septicemia systemic infection sepsis (invertebrate)', 'dehydration', 'chronic kidney failure', 'exanthema', 'bronchitis', 'lymphatic diseases', 'diverticulitis', 'osteomyelitis', 'bacteremia', 'upper respiratory infection', 'hepatitis', 'thrombocytopaenia', 'pneumonia aspiration', 'colitis', 'suicide attempt', 'lymphoma', 'tricuspid valve insufficiency', ""Alzheimer's disease"", 'kidney disease', 'fibroid tumor', 'melanoma', 'gastroenteritis', 'spasm bronchial', 'pyelonephritis', 'pyelonephritis', 'delirium', 'influenza', 'migraine disorders', 'decubitus ulcer']"
+flare,['endocarditis']
+flatulence,"['cholecystitis', 'ileus', 'adhesion']"
+floppy,['Pneumocystis carinii pneumonia']
+flushing,"['bacteremia', 'emphysema pulmonary']"
+focal seizures,['hemiparesis']
+food intolerance,"['degenerative polyarthritis', 'neoplasm', 'hernia', 'neoplasm metastasis', 'malignant neoplasms']"
+formication,"['anxiety state', 'malignant neoplasm of breast carcinoma breast', 'suicide attempt']"
+frail,"['upper respiratory infection', ""Alzheimer's disease"", 'decubitus ulcer']"
+fremitus,"['hemiparesis', 'adenocarcinoma', 'lymphatic diseases', 'spasm bronchial']"
+frothy sputum,['stenosis aortic valve']
+gag,['hernia']
+gasping for breath,['cholecystitis']
+general discomfort,"['degenerative polyarthritis', 'gastroesophageal reflux disease', 'carcinoma', 'malignant tumor of colon carcinoma colon', 'hernia hiatal']"
+general unsteadiness,"['arthritis', 'respiratory failure']"
+giddy mood,"['hyperlipidemia', 'delusion']"
+gravida ,"['carcinoma', 'kidney disease', 'malignant neoplasms', 'melanoma', 'ileus']"
+green sputum,"['pneumonia', 'sickle cell anemia', 'colitis', 'influenza']"
+groggy,"[""Alzheimer's disease"", 'cholecystitis']"
+guaiac positive,"['anemia', 'insufficiency renal', 'chronic kidney failure', 'cirrhosis', 'malignant neoplasm of prostate carcinoma prostate', 'gastritis', 'hemorrhoids', 'hernia hiatal']"
+gurgle,"['epilepsy', 'ulcer peptic', 'pneumonia aspiration', 'ketoacidosis diabetic', 'malignant neoplasm of lung carcinoma of lung']"
+hacking cough,"['bronchitis', 'Pneumocystis carinii pneumonia']"
+haemoptysis,"['pneumonia', 'bronchitis', 'lymphoma', 'malignant neoplasm of lung carcinoma of lung', 'pneumothorax']"
+haemorrhage,"['anemia', 'septicemia systemic infection sepsis (invertebrate)', 'kidney failure acute', 'hernia', 'gastritis', 'failure kidney', 'thrombocytopaenia', 'diverticulosis', 'encephalopathy', 'fibroid tumor', 'primary carcinoma of the liver cells', 'hemorrhoids', 'pancytopenia']"
+hallucinations auditory,"['depression mental , depressive disorder', 'dementia', 'anxiety state', 'hepatitis C', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'schizophrenia', 'suicide attempt', 'manic disorder', 'personality disorder', 'chronic alcoholic intoxication', 'delirium', 'delusion']"
+hallucinations visual,"['depression mental , depressive disorder', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'schizophrenia', 'manic disorder', 'adhesion', 'affect labile']"
+has religious belief,"['anxiety state', 'bipolar disorder', 'obesity', 'emphysema pulmonary']"
+headache,"['confusion', 'neoplasm', 'exanthema', 'transient ischemic attack', 'sickle cell anemia', 'Pneumocystis carinii pneumonia', 'candidiasis oralcandidiasis', 'tonic-clonic epilepsy tonic-clonic seizures', 'influenza', 'hernia hiatal']"
+heartburn,"['gastroesophageal reflux disease', 'carcinoma', 'fibroid tumor', 'malignant neoplasms']"
+heavy feeling,['hepatitis C']
+heavy legs,"['hypertension pulmonary', 'dependence']"
+heberden's node,['edema pulmonary']
+hematochezia,['adenocarcinoma']
+hematocrit decreased,"['embolism pulmonary', 'primary carcinoma of the liver cells', 'obesity morbid']"
+hematuria,"['infection urinary tract', 'malignant neoplasms primary malignant neoplasm', 'neoplasm', 'malignant neoplasm of prostate carcinoma prostate', 'parkinson disease', 'pyelonephritis']"
+heme positive,"['anemia', 'gastritis', 'diverticulosis']"
+hemianopsia homonymous,"['neoplasm', 'malignant neoplasm of prostate carcinoma prostate']"
+hemiplegia,"['accident cerebrovascular', 'epilepsy', 'hyperlipidemia', 'hemiparesis', 'hernia', 'ulcer peptic', 'pneumonia aspiration', 'parkinson disease', 'respiratory failure', 'spasm bronchial']"
+hemodynamically stable,"['infection urinary tract', 'cirrhosis', 'kidney failure acute', 'arthritis', 'malignant neoplasm of prostate carcinoma prostate', 'upper respiratory infection', 'colitis', 'effusion pericardial pericardial effusion body substance', 'thrombus']"
+hepatomegaly,"['lymphatic diseases', 'primary carcinoma of the liver cells']"
+hepatosplenomegaly,"['infection', 'bronchitis', 'sickle cell anemia']"
+hirsutism,"['osteoporosis', 'tonic-clonic epilepsy tonic-clonic seizures']"
+hoard,['chronic alcoholic intoxication']
+hoarseness,"['malignant neoplasms primary malignant neoplasm', 'carcinoma', 'deglutition disorder']"
+homelessness,"['depression mental , depressive disorder', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'schizophrenia', 'personality disorder', 'chronic alcoholic intoxication', 'dependence']"
+homicidal thoughts,['delusion']
+hot flush,"['anxiety state', 'gout']"
+hunger,"['ulcer peptic', 'hemorrhoids']"
+hydropneumothorax,"['lymphoma', 'neuropathy']"
+hyperacusis,"['cellulitis', 'lymphatic diseases']"
+hypercapnia,"['chronic obstructive airway disease', 'emphysema pulmonary', 'pneumothorax']"
+hyperemesis,['malignant tumor of colon carcinoma colon']
+hyperhidrosis disorder,['bipolar disorder']
+hyperkalemia,"['insufficiency renal', 'chronic kidney failure', 'peripheral vascular disease', 'kidney failure acute', 'edema pulmonary', 'overload fluid', ""Alzheimer's disease"", 'kidney disease', 'respiratory failure']"
+hypersomnia,"['bipolar disorder', 'manic disorder']"
+hypersomnolence,['schizophrenia']
+hypertonicity,['thrombus']
+hyperventilation,['hernia']
+hypesthesia,['cellulitis']
+hypoalbuminemia,"['bacteremia', 'thrombus']"
+hypocalcemia result,"['kidney failure acute', 'neutropenia']"
+hypokalemia,"['overload fluid', 'Pneumocystis carinii pneumonia']"
+hypokinesia,"['coronary arteriosclerosis ,coronary heart disease', 'myocardial infarction', 'insufficiency renal', 'cardiomyopathy', 'hyperlipidemia', 'mitral valve insufficiency', 'failure heart', 'gout', 'encephalopathy', 'respiratory failure', 'endocarditis', 'thrombus']"
+hypometabolism,['epilepsy']
+hyponatremia,"['infection urinary tract', 'anemia', 'confusion', 'hypothyroidism', 'gastroesophageal reflux disease', 'glaucoma', 'gastroenteritis', 'hemorrhoids', 'delirium', 'hernia hiatal']"
+hypoproteinemia,['pancytopenia']
+hypotension,"['insufficiency renal', 'hypothyroidism', 'septicemia systemic infection sepsis (invertebrate)', 'deep vein thrombosis', 'dehydration', 'kidney failure acute', 'edema pulmonary', 'overload fluid', 'failure kidney', 'failure heart', 'hypertension pulmonary', 'thrombocytopaenia', 'hypoglycemia', 'malignant neoplasms', 'endocarditis', 'effusion pericardial pericardial effusion body substance']"
+"hypothermia, natural","['kidney failure acute', 'hypoglycemia', 'primary carcinoma of the liver cells', 'obesity morbid']"
+hypoxemia,"['chronic obstructive airway disease', 'embolism pulmonary', 'spasm bronchial', 'obesity morbid']"
+immobile,['adhesion']
+impaired cognition,"['tricuspid valve insufficiency', 'delusion']"
+inappropriate affect,['hepatitis B']
+incoherent,['hypoglycemia']
+indifferent mood,"['bacteremia', 'upper respiratory infection', 'primary carcinoma of the liver cells']"
+intermenstrual heavy bleeding,['fibroid tumor']
+intoxication,"['depression mental , depressive disorder', 'psychotic disorder', 'bipolar disorder', 'gastritis', 'effusion pericardial pericardial effusion body substance', 'dependence']"
+irritable mood,"['depression mental , depressive disorder', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'schizophrenia', 'suicide attempt', 'malignant neoplasm of lung carcinoma of lung', 'personality disorder', 'chronic alcoholic intoxication', 'delusion', 'delusion']"
+jugular venous distention,"['failure heart congestive', 'cardiomyopathy', 'chronic kidney failure', 'paroxysmal dyspnea', 'edema pulmonary', 'overload fluid', 'failure heart']"
+labored breathing,"['diabetes', 'peripheral vascular disease', 'bronchitis', 'upper respiratory infection', 'obesity morbid']"
+lameness claudication,['hypoglycemia']
+large-for-dates fetus,['adhesion']
+left atrial hypertrophy,"['cardiomyopathy', 'mitral valve insufficiency', 'hypertension pulmonary', 'tachycardia sinus']"
+lesion,"['malignant neoplasms primary malignant neoplasm', 'neoplasm', 'carcinoma', 'cirrhosis', 'exanthema', 'adenocarcinoma', 'lymphatic diseases', 'malignant neoplasm of breast carcinoma breast', 'deglutition disorder', 'lymphoma', 'glaucoma', 'malignant tumor of colon carcinoma colon', 'malignant neoplasms', 'respiratory failure', 'malignant neoplasm of lung carcinoma of lung', 'primary carcinoma of the liver cells', 'neutropenia']"
+lethargy,"['infection urinary tract', 'dementia', 'confusion', 'septicemia systemic infection sepsis (invertebrate)', 'dehydration', 'epilepsy', 'dependence']"
+lightheadedness,"['confusion', 'dehydration', 'osteoporosis', 'transient ischemic attack', 'diverticulosis']"
+lip smacking,"['tonic-clonic epilepsy tonic-clonic seizures', 'influenza']"
+loose associations,"['bipolar disorder', 'paranoia', 'delusion']"
+low back pain,['spasm bronchial']
+lung nodule,"['carcinoma', 'neoplasm metastasis', 'malignant neoplasm of lung carcinoma of lung', 'adhesion']"
+macerated skin,['hepatitis C']
+macule,['exanthema']
+malaise,"['pneumonia', 'chronic kidney failure', 'influenza']"
+mass in breast,"['malignant neoplasm of breast carcinoma breast', 'melanoma']"
+mass of body structure,"['hypothyroidism', 'malignant neoplasms primary malignant neoplasm', 'neoplasm', 'carcinoma', 'adenocarcinoma', 'hernia', 'malignant neoplasm of prostate carcinoma prostate', 'lymphatic diseases', 'malignant neoplasm of breast carcinoma breast', 'parkinson disease', 'glaucoma', 'neoplasm metastasis', 'malignant neoplasms', 'melanoma', 'gastroenteritis', 'primary carcinoma of the liver cells', 'ileus']"
+mediastinal shift,"['pneumonia aspiration', 'tricuspid valve insufficiency']"
+mental status changes,"['diabetes', 'infection urinary tract', 'insufficiency renal', 'confusion', 'hypothyroidism', 'dehydration', 'chronic kidney failure', 'benign prostatic hypertrophy', 'pneumonia aspiration']"
+metastatic lesion,"['neoplasm', 'carcinoma', 'neoplasm metastasis', 'malignant neoplasm of lung carcinoma of lung', 'endocarditis']"
+milky,['ketoacidosis diabetic']
+moan,"['hepatitis B', 'emphysema pulmonary', 'cholecystitis']"
+monoclonal,"['anemia', 'diverticulitis', 'neutropenia']"
+monocytosis,['thrombocytopaenia']
+mood depressed,"['depression mental , depressive disorder', 'anxiety state', 'psychotic disorder', 'obesity', 'paranoia', 'hyperglycemia', 'personality disorder']"
+moody,"['incontinence', 'tonic-clonic epilepsy tonic-clonic seizures']"
+motor retardation,"['depression mental , depressive disorder', 'hypothyroidism', 'psychotic disorder', 'bipolar disorder', 'suicide attempt']"
+murphy's sign,['cholecystitis']
+muscle hypotonia hypotonic,"['acquired immuno-deficiency syndrome HIV hiv infections', 'fibroid tumor']"
+muscle twitch,"['confusion', 'epilepsy', ""Alzheimer's disease"", 'tonic-clonic epilepsy tonic-clonic seizures', 'spasm bronchial', 'dependence']"
+myalgia,"['Pneumocystis carinii pneumonia', 'gastroenteritis', 'emphysema pulmonary', 'pyelonephritis', 'endocarditis', 'hyperbilirubinemia', 'hernia hiatal']"
+mydriasis,['bipolar disorder']
+myoclonus,"['epilepsy', 'tonic-clonic epilepsy tonic-clonic seizures']"
+nasal discharge present,['upper respiratory infection']
+nasal flaring,['influenza']
+nausea,"['hypertensive disease', 'diabetes', 'gastroesophageal reflux disease', 'dehydration', 'chronic kidney failure', 'carcinoma', 'pancreatitis', 'hernia', 'ulcer peptic', 'gastritis', 'colitis', 'diverticulosis', 'tricuspid valve insufficiency', 'malignant tumor of colon carcinoma colon', 'ketoacidosis diabetic', 'gastroenteritis', 'pyelonephritis', 'cholecystitis', 'hernia hiatal', 'migraine disorders', 'cholelithiasis biliary calculus', 'ileus']"
+nausea and vomiting,"['colitis', 'neuropathy', 'personality disorder', 'hemorrhoids']"
+neck stiffness,"['embolism pulmonary', 'transient ischemic attack', 'hypertension pulmonary', 'Pneumocystis carinii pneumonia']"
+neologism,"['paranoia', 'chronic alcoholic intoxication', 'delusion']"
+nervousness,"['anxiety state', 'ulcer peptic', 'ketoacidosis diabetic', 'personality disorder']"
+night sweat,"['pneumonia', 'acquired immuno-deficiency syndrome HIV hiv infections', 'neoplasm', 'benign prostatic hypertrophy', 'bronchitis', 'lymphatic diseases', 'upper respiratory infection', 'parkinson disease', 'candidiasis oralcandidiasis', 'malignant neoplasms', 'malignant neoplasm of lung carcinoma of lung', 'emphysema pulmonary', 'endocarditis', 'neutropenia']"
+nightmare,"['depression mental , depressive disorder', 'hypothyroidism', 'anxiety state', 'psychotic disorder', ""Alzheimer's disease"", 'personality disorder']"
+no known drug allergies,['spasm bronchial']
+no status change,['failure kidney']
+noisy respiration,['upper respiratory infection']
+non-productive cough,"['pneumonia', 'asthma', 'degenerative polyarthritis', 'deep vein thrombosis', 'embolism pulmonary', 'carcinoma', 'lymphatic diseases', 'upper respiratory infection', 'Pneumocystis carinii pneumonia', 'candidiasis oralcandidiasis']"
+nonsmoker,"['hypercholesterolemia', 'degenerative polyarthritis']"
+numbness,"['accident cerebrovascular', 'hypercholesterolemia', 'hypothyroidism', 'transient ischemic attack', 'neuropathy', 'migraine disorders']"
+numbness of hand,"['degenerative polyarthritis', 'osteoporosis', 'hemorrhoids', 'hernia hiatal']"
+oliguria,"['chronic kidney failure', 'kidney failure acute', 'failure kidney', 'effusion pericardial pericardial effusion body substance', 'neutropenia']"
+orthopnea,"['diabetes', 'coronary arteriosclerosis ,coronary heart disease', 'failure heart congestive', 'myocardial infarction', 'insufficiency renal', 'cardiomyopathy', 'chronic kidney failure', 'benign prostatic hypertrophy', 'paroxysmal dyspnea', 'edema pulmonary', 'overload fluid', 'failure kidney', 'failure heart', 'endocarditis']"
+orthostasis,"['anemia', 'benign prostatic hypertrophy', 'malignant neoplasm of prostate carcinoma prostate', 'parkinson disease', 'tachycardia sinus']"
+out of breath,"['osteoporosis', 'ulcer peptic', 'obesity morbid']"
+overweight,['obesity']
+pain,"['hypercholesterolemia', 'infection', 'anemia', 'dementia', 'degenerative polyarthritis', 'anxiety state', 'malignant neoplasms primary malignant neoplasm', 'cellulitis', 'gastroesophageal reflux disease', 'deep vein thrombosis', 'neoplasm', 'carcinoma', 'obesity', 'exanthema', 'mitral valve insufficiency', 'arthritis', 'osteoporosis', 'adenocarcinoma', 'pancreatitis', 'hernia', 'lymphatic diseases', 'stenosis aortic valve', 'diverticulitis', 'osteomyelitis', 'gastritis', 'sickle cell anemia', 'gout', 'pneumonia aspiration', 'colitis', 'diverticulosis', 'tricuspid valve insufficiency', 'neuropathy', 'neoplasm metastasis', 'melanoma', 'hemorrhoids', 'spasm bronchial', 'pyelonephritis', 'effusion pericardial pericardial effusion body substance', 'cholecystitis', 'cholelithiasis biliary calculus', 'adhesion']"
+pain abdominal,"['gastroesophageal reflux disease', 'neoplasm', 'cirrhosis', 'adenocarcinoma', 'pancreatitis', 'hernia', 'diverticulitis', 'ulcer peptic', 'gastritis', 'sickle cell anemia', 'hepatitis', 'pneumonia aspiration', 'colitis', 'hepatitis B', 'tricuspid valve insufficiency', 'neoplasm metastasis', 'malignant tumor of colon carcinoma colon', 'ketoacidosis diabetic', 'malignant neoplasms', 'gastroenteritis', 'primary carcinoma of the liver cells', 'pyelonephritis', 'cholecystitis', 'hernia hiatal', 'cholelithiasis biliary calculus', 'tachycardia sinus', 'ileus']"
+pain back,"['anemia', 'sickle cell anemia']"
+pain chest,"['hypertensive disease', 'diabetes', 'coronary arteriosclerosis ,coronary heart disease', 'myocardial infarction', 'hypercholesterolemia', 'anxiety state', 'cellulitis', 'gastroesophageal reflux disease', 'neoplasm', 'embolism pulmonary', 'cardiomyopathy', 'hyperlipidemia', 'obesity', 'ischemia', 'paroxysmal dyspnea', 'edema pulmonary', 'stenosis aortic valve', 'ulcer peptic', 'sickle cell anemia', 'kidney disease']"
+pain foot,['osteomyelitis']
+pain in lower limb,['deep vein thrombosis']
+pain neck,['neoplasm metastasis']
+painful swallowing,"['exanthema', 'deglutition disorder', 'candidiasis oralcandidiasis', 'emphysema pulmonary']"
+pallor,"['anemia', 'bacteremia']"
+palpitation,"['hypertensive disease', 'myocardial infarction', 'anxiety state', 'gastroesophageal reflux disease', 'cardiomyopathy', 'hyperlipidemia', 'mitral valve insufficiency', 'paroxysmal dyspnea', 'cholelithiasis biliary calculus']"
+panic,['chronic alcoholic intoxication']
+pansystolic murmur,['failure heart']
+para ,"['fibroid tumor', 'hyperbilirubinemia', 'adhesion']"
+paralyse,"['hemiparesis', 'spasm bronchial']"
+paraparesis,"['incontinence', 'ulcer peptic', 'melanoma']"
+paresis,"['hemiparesis', 'malignant neoplasm of prostate carcinoma prostate', 'primary carcinoma of the liver cells']"
+paresthesia,"['carcinoma', 'malignant neoplasm of breast carcinoma breast', 'deglutition disorder', 'glaucoma']"
+passed stones,['malignant neoplasm of prostate carcinoma prostate']
+patient non compliance,"['chronic obstructive airway disease', 'anxiety state', 'acquired immuno-deficiency syndrome HIV hiv infections', 'cellulitis', 'cardiomyopathy', 'hepatitis C', 'psychotic disorder', 'edema pulmonary', 'schizophrenia', 'gout', 'candidiasis oralcandidiasis', 'affect labile']"
+pericardial friction rub,['effusion pericardial pericardial effusion body substance']
+phonophobia,['tonic-clonic epilepsy tonic-clonic seizures']
+photophobia,"['exanthema', 'candidiasis oralcandidiasis', 'hernia hiatal']"
+photopsia,['hyperlipidemia']
+pin-point pupils,"[""Alzheimer's disease""]"
+pleuritic pain,"['pneumonia', 'asthma', 'acquired immuno-deficiency syndrome HIV hiv infections', 'embolism pulmonary', 'chronic kidney failure', 'malignant neoplasm of prostate carcinoma prostate', 'bacteremia', 'upper respiratory infection', 'endocarditis', 'influenza']"
+pneumatouria,['diverticulosis']
+polydypsia,"['diabetes', 'degenerative polyarthritis', 'lymphoma', 'malignant tumor of colon carcinoma colon']"
+polymyalgia,"['malignant neoplasm of prostate carcinoma prostate', 'ulcer peptic', 'upper respiratory infection']"
+polyuria,"['diabetes', 'hypothyroidism', 'hypoglycemia', 'ketoacidosis diabetic']"
+poor dentition,"['Pneumocystis carinii pneumonia', 'candidiasis oralcandidiasis']"
+poor feeding,['hepatitis B']
+posterior rhinorrhea,['thrombocytopaenia']
+posturing,"['hernia', 'encephalopathy']"
+presence of q wave,"['myocardial infarction', 'gastroesophageal reflux disease', 'hyperlipidemia']"
+pressure chest,"['hypertensive disease', 'coronary arteriosclerosis ,coronary heart disease', 'myocardial infarction', 'hypercholesterolemia', 'ischemia', 'tachycardia sinus']"
+previous pregnancies ,['fibroid tumor']
+primigravida,['fibroid tumor']
+prodrome,['hernia hiatal']
+productive cough,"['pneumonia', 'asthma', 'acquired immuno-deficiency syndrome HIV hiv infections', 'embolism pulmonary', 'bronchitis', 'upper respiratory infection', 'Pneumocystis carinii pneumonia', 'respiratory failure', 'spasm bronchial']"
+projectile vomiting,"['hepatitis', 'diverticulosis', 'hepatitis B']"
+prostate tender,['osteomyelitis']
+prostatism,"['hypothyroidism', 'osteoporosis', 'bacteremia', 'failure kidney', 'malignant tumor of colon carcinoma colon', 'pneumothorax', 'dependence', 'affect labile']"
+proteinemia,['fibroid tumor']
+pruritus,"['infection', 'cellulitis', 'cirrhosis', 'exanthema', 'hepatitis', 'thrombocytopaenia', 'hyperglycemia', 'melanoma', 'personality disorder', 'thrombus']"
+pulse absent,['hernia']
+pulsus paradoxus,"['malignant neoplasms', 'endocarditis']"
+pustule,"['bacteremia', 'hyperglycemia']"
+qt interval prolonged,"['malignant neoplasm of prostate carcinoma prostate', 'hypoglycemia', 'cholecystitis']"
+r wave feature,['obesity']
+rale,"['diabetes', 'pneumonia', 'failure heart congestive', 'myocardial infarction', 'dementia', 'insufficiency renal', 'septicemia systemic infection sepsis (invertebrate)', 'deep vein thrombosis', 'cardiomyopathy', 'chronic kidney failure', 'ischemia', 'paroxysmal dyspnea', 'malignant neoplasm of prostate carcinoma prostate', 'edema pulmonary', 'overload fluid', 'malignant neoplasm of lung carcinoma of lung', 'emphysema pulmonary', 'dependence']"
+rambling speech,['transient ischemic attack']
+rapid shallow breathing,['upper respiratory infection']
+red blotches,['diverticulitis']
+redness,"['cellulitis', 'deep vein thrombosis', 'exanthema', 'lymphatic diseases', 'osteomyelitis', 'gout', 'respiratory failure']"
+regurgitates after swallowing,['ketoacidosis diabetic']
+renal angle tenderness,"['infection urinary tract', 'obesity morbid']"
+rest pain,['peripheral vascular disease']
+retch,['gastroenteritis']
+retropulsion,['malignant neoplasm of breast carcinoma breast']
+rhd positive,['neutropenia']
+rhonchus,"['pneumonia', 'anemia', 'dementia', 'malignant neoplasm of prostate carcinoma prostate', 'upper respiratory infection', ""Alzheimer's disease"", 'spasm bronchial']"
+rigor - temperature-associated observation,['pancreatitis']
+rolling of eyes,['tonic-clonic epilepsy tonic-clonic seizures']
+room spinning,"['transient ischemic attack', 'primary carcinoma of the liver cells', 'emphysema pulmonary']"
+satiety early,"['gastroesophageal reflux disease', 'neoplasm', 'adenocarcinoma']"
+scar tissue,"['emphysema pulmonary', 'spasm bronchial', 'tachycardia sinus']"
+sciatica,['stenosis aortic valve']
+scleral icterus,"['gastroenteritis', 'influenza']"
+scratch marks,"['cellulitis', 'exanthema', 'personality disorder']"
+sedentary,['obesity morbid']
+seizure,"['accident cerebrovascular', 'confusion', 'epilepsy', 'hemiparesis', 'incontinence', 'pneumonia aspiration', 'hyperglycemia', 'ketoacidosis diabetic', 'chronic alcoholic intoxication', 'dependence']"
+sensory discomfort,"['gastroesophageal reflux disease', 'dehydration', 'suicide attempt', 'spasm bronchial']"
+shooting pain,['malignant tumor of colon carcinoma colon']
+shortness of breath,"['hypertensive disease', 'diabetes', 'coronary arteriosclerosis ,coronary heart disease', 'pneumonia', 'failure heart congestive', 'asthma', 'myocardial infarction', 'hypercholesterolemia', 'anemia', 'chronic obstructive airway disease', 'insufficiency renal', 'hypothyroidism', 'deep vein thrombosis', 'embolism pulmonary', 'cardiomyopathy', 'chronic kidney failure', 'peripheral vascular disease', 'hyperlipidemia', 'obesity', 'ischemia', 'mitral valve insufficiency', 'arthritis', 'bronchitis', 'paroxysmal dyspnea', 'edema pulmonary', 'stenosis aortic valve', 'overload fluid', 'failure kidney', 'sickle cell anemia', 'failure heart', 'upper respiratory infection', 'hypertension pulmonary', 'tricuspid valve insufficiency', 'kidney disease', 'fibroid tumor', 'respiratory failure', 'malignant neoplasm of lung carcinoma of lung', 'primary carcinoma of the liver cells', 'spasm bronchial', 'endocarditis', 'effusion pericardial pericardial effusion body substance', 'chronic alcoholic intoxication', 'influenza', 'thrombus', 'tachycardia sinus', 'adhesion']"
+side pain,"['deglutition disorder', 'personality disorder']"
+sinus rhythm,"['peripheral vascular disease', 'ischemia', 'edema pulmonary', 'diverticulitis', 'respiratory failure', 'cholecystitis']"
+sleeplessness,"['depression mental , depressive disorder', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'arthritis', 'suicide attempt', 'personality disorder', 'chronic alcoholic intoxication', 'delusion', 'affect labile']"
+sleepy,"['confusion', 'epilepsy', 'peripheral vascular disease', 'tonic-clonic epilepsy tonic-clonic seizures']"
+slowing of urinary stream,"['failure kidney', 'neuropathy']"
+sneeze,['influenza']
+sniffle,['osteoporosis']
+snore,"['obesity', 'respiratory failure', 'influenza']"
+snuffle,"['bronchitis', 'sickle cell anemia', 'upper respiratory infection', 'neutropenia', 'influenza']"
+soft tissue swelling,['pneumothorax']
+sore to touch,"['cellulitis', 'carcinoma', 'peripheral vascular disease', 'cirrhosis', 'pancreatitis', 'hernia', 'diverticulitis', 'osteomyelitis', 'gastritis', 'gout', 'hyperglycemia', 'gastroenteritis', 'thrombus', 'hernia hiatal', 'cholelithiasis biliary calculus', 'ileus']"
+spasm,"['incontinence', 'deglutition disorder', 'tonic-clonic epilepsy tonic-clonic seizures']"
+speech slurred,"['accident cerebrovascular', 'confusion', 'hypothyroidism', 'hemiparesis', 'transient ischemic attack']"
+splenomegaly,"['cirrhosis', 'lymphatic diseases', 'primary carcinoma of the liver cells', 'neutropenia', 'migraine disorders']"
+spontaneous rupture of membranes,"['acquired immuno-deficiency syndrome HIV hiv infections', 'septicemia systemic infection sepsis (invertebrate)', 'hepatitis', 'Pneumocystis carinii pneumonia']"
+sputum purulent,"['chronic obstructive airway disease', 'effusion pericardial pericardial effusion body substance']"
+st segment depression,"['myocardial infarction', 'hypercholesterolemia']"
+st segment elevation,['myocardial infarction']
+stahli's line,"['hemiparesis', 'transient ischemic attack', 'hypertension pulmonary']"
+stiffness,"['degenerative polyarthritis', 'incontinence', 'deglutition disorder', 'parkinson disease']"
+stinging sensation,['hemiparesis']
+stool color yellow,"['pancreatitis', 'thrombus', 'pancytopenia']"
+stridor,"['bronchitis', 'deglutition disorder']"
+stuffy nose,"['upper respiratory infection', 'dependence']"
+stupor,"['hemiparesis', 'pneumonia aspiration', 'primary carcinoma of the liver cells']"
+suicidal,"['depression mental , depressive disorder', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'schizophrenia', 'suicide attempt', 'manic disorder', 'manic disorder', 'chronic alcoholic intoxication', 'delirium', 'dependence', 'delusion']"
+superimposition,"['lymphoma', 'neuropathy']"
+sweat sweating increased,"['hypertensive disease', 'diabetes', 'coronary arteriosclerosis ,coronary heart disease', 'myocardial infarction', 'hypercholesterolemia', 'gastroesophageal reflux disease', 'hyperlipidemia', 'ischemia', 'paroxysmal dyspnea', 'edema pulmonary', 'tachycardia sinus']"
+swelling,"['infection', 'anemia', 'insufficiency renal', 'cellulitis', 'deep vein thrombosis', 'chronic kidney failure', 'exanthema', 'arthritis', 'lymphatic diseases', 'malignant neoplasm of breast carcinoma breast', 'overload fluid', 'osteomyelitis', 'gout']"
+symptom aggravating factors,"['asthma', 'upper respiratory infection', 'emphysema pulmonary', 'influenza']"
+syncope,"['hypertensive disease', 'myocardial infarction', 'hypercholesterolemia', 'dementia', 'hypothyroidism', 'dehydration', 'cardiomyopathy', 'mitral valve insufficiency', 'arthritis', 'osteoporosis', 'transient ischemic attack', 'incontinence', 'stenosis aortic valve', 'parkinson disease']"
+syncope blackout history of - blackout,['dehydration']
+systolic ejection murmur,"['failure heart', 'malignant tumor of colon carcinoma colon']"
+systolic murmur,"['obesity', 'stenosis aortic valve', 'decubitus ulcer']"
+t wave inverted,"['myocardial infarction', 'hypercholesterolemia', 'tachycardia sinus']"
+tachypnea,"['pneumonia', 'acquired immuno-deficiency syndrome HIV hiv infections', 'septicemia systemic infection sepsis (invertebrate)', 'embolism pulmonary', 'edema pulmonary', 'hepatitis', 'thrombocytopaenia', 'hepatitis B', 'respiratory failure', 'spasm bronchial', 'hyperbilirubinemia']"
+tenesmus,"['colitis', 'neuropathy', 'emphysema pulmonary']"
+terrify,"['psychotic disorder', 'paranoia', 'delusion']"
+thicken,"['malignant neoplasms primary malignant neoplasm', 'neoplasm', 'carcinoma', 'mitral valve insufficiency', 'hernia', 'diverticulitis', 'colitis', 'encephalopathy', 'neoplasm metastasis', 'malignant neoplasms', 'primary carcinoma of the liver cells', 'endocarditis', 'cholelithiasis biliary calculus', 'ileus']"
+throat sore,"['bronchitis', 'upper respiratory infection', 'candidiasis oralcandidiasis', 'spasm bronchial', 'influenza']"
+throbbing sensation quality,['gastroesophageal reflux disease']
+tinnitus,['lymphoma']
+titubation,['deglutition disorder']
+todd paralysis,['suicide attempt']
+tonic seizures,['encephalopathy']
+transaminitis,"['anemia', 'hepatitis', 'pneumonia aspiration', 'Pneumocystis carinii pneumonia', 'lymphoma', 'candidiasis oralcandidiasis', 'neutropenia']"
+transsexual,['personality disorder']
+tremor,"['depression mental , depressive disorder', 'confusion', 'anxiety state', 'epilepsy', 'psychotic disorder', 'bipolar disorder', 'incontinence', 'suicide attempt', 'parkinson disease', ""Alzheimer's disease"", 'tonic-clonic epilepsy tonic-clonic seizures', 'chronic alcoholic intoxication', 'dependence']"
+tremor resting,"[""Alzheimer's disease""]"
+tumor cell invasion,"['anemia', 'neoplasm', 'carcinoma', 'cirrhosis', 'malignant neoplasm of prostate carcinoma prostate', 'neoplasm metastasis', 'tonic-clonic epilepsy tonic-clonic seizures', 'primary carcinoma of the liver cells']"
+unable to concentrate,"['depression mental , depressive disorder', 'suicide attempt']"
+unconscious state,"['dementia', 'confusion', 'incontinence', 'hypoglycemia', 'suicide attempt', 'glaucoma', 'chronic alcoholic intoxication']"
+uncoordination,"['encephalopathy', 'influenza']"
+underweight underweight,['schizophrenia']
+unhappy,"['carcinoma', 'incontinence', 'obesity morbid']"
+unresponsiveness,"['diabetes', 'accident cerebrovascular', 'dementia', 'confusion', 'septicemia systemic infection sepsis (invertebrate)', 'embolism pulmonary', 'epilepsy', 'chronic kidney failure', 'peripheral vascular disease', 'kidney failure acute', 'hemiparesis', 'incontinence', 'bacteremia', 'failure kidney', 'hypoglycemia', 'pneumonia aspiration', 'suicide attempt', 'parkinson disease', 'encephalopathy', 'tonic-clonic epilepsy tonic-clonic seizures', 'respiratory failure', 'delirium']"
+unsteady gait,"['dementia', 'degenerative polyarthritis', 'hypothyroidism', 'diverticulitis', 'glaucoma', 'delirium', 'adhesion']"
+unwell,['dehydration']
+urge incontinence,"['osteoporosis', 'incontinence', 'malignant neoplasm of prostate carcinoma prostate', 'colitis']"
+urgency of micturition,"['insufficiency renal', 'edema pulmonary', 'diverticulitis', 'pyelonephritis']"
+urinary hesitation,"['osteomyelitis', 'malignant tumor of colon carcinoma colon', 'ketoacidosis diabetic']"
+urinoma,['bacteremia']
+verbal auditory hallucinations,"['depression mental , depressive disorder', 'psychotic disorder', 'bipolar disorder', 'paranoia', 'schizophrenia', 'manic disorder']"
+verbally abusive behavior,"['manic disorder', 'delirium', 'delusion']"
+vertigo,"['hypertensive disease', 'diabetes', 'osteoporosis', 'transient ischemic attack', 'malignant neoplasm of prostate carcinoma prostate']"
+vision blurred,"['transient ischemic attack', 'ketoacidosis diabetic']"
+vomiting,"['diabetes', 'hypothyroidism', 'dehydration', 'chronic kidney failure', 'mitral valve insufficiency', 'pancreatitis', 'diverticulitis', 'ulcer peptic', 'gastritis', 'bacteremia', 'hepatitis', 'colitis', 'tricuspid valve insufficiency', 'malignant tumor of colon carcinoma colon', 'ketoacidosis diabetic', 'melanoma', 'spasm bronchial', 'pyelonephritis', 'thrombus', 'hernia hiatal', 'migraine disorders', 'cholelithiasis biliary calculus', 'tachycardia sinus', 'adhesion']"
+weepiness,"['depression mental , depressive disorder', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'suicide attempt', 'personality disorder', 'delusion']"
+weight gain,"['hypothyroidism', 'cardiomyopathy', 'paroxysmal dyspnea', 'overload fluid']"
+welt,['lymphoma']
+wheelchair bound,"['epilepsy', 'hepatitis B', ""Alzheimer's disease""]"
+wheezing,"['pneumonia', 'failure heart congestive', 'asthma', 'chronic obstructive airway disease', 'embolism pulmonary', 'bronchitis', 'edema pulmonary', 'upper respiratory infection', 'hyperglycemia', 'hemorrhoids', 'obesity morbid']"
+withdraw,"['psychotic disorder', 'suicide attempt', 'parkinson disease', 'delirium']"
+worry,"['depression mental , depressive disorder', 'hypercholesterolemia', 'anxiety state', 'psychotic disorder', 'bipolar disorder', 'schizophrenia', 'suicide attempt', 'parkinson disease', 'personality disorder', 'delirium', 'delusion']"
+yellow sputum,"['pneumonia', 'embolism pulmonary', 'cardiomyopathy', 'chronic kidney failure', 'Pneumocystis carinii pneumonia', 'hepatitis B']"
