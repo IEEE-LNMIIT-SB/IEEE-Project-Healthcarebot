@@ -2,12 +2,6 @@
 import scrapy
 from ScrapingSymptomsDatacd.items import ScrapingsymptomsdatacdItem
 
-headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36' 
-#           'enc_data': 'OXYIMo2UzzqFUzYszFv4lWP6aDP0r+h4AOC2fYVQIl8=', 
-#           'timestamp': 'Thu, 09 March 2018 02:11:34 GMT', 
-#           'client_id': '3454df96-c7a5-47bb-a74e-890fb3c30a0d'
-           }
-
 class SymptomsdatacrawlerSpider(scrapy.Spider):
     name = 'SymptomsDataCrawler'
     allowed_domains = ['symptomchecker.webmd.com']
